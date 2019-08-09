@@ -1,0 +1,35 @@
+body{
+background-color:white;
+color: black;
+text-align: center;
+}
+
+@media only screen
+    and (max-width:
+        400px){
+            background-color:white;
+}
+nav{
+    float: center;
+    font-size: 20px;
+    color:blue;
+    text-align: center;
+    width: 85%;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    margin: 4em;
+    background color: blue;
+}
+
+p1{
+    float: left;
+    font-size: 21px;
+    width: 85;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    margin: 4em;
+}
